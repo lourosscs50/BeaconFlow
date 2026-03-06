@@ -166,6 +166,10 @@ dotnet test BeaconFlow.sln
 Run the API:
 dotnet run --project src/BeaconFlow.Api/BeaconFlow.Api.csproj
 
+## API Documentation
+Swagger UI is available locally at:
+http://localhost:5067/swagger
+
 Testing
 BeaconFlow includes unit tests for:
 Domain rules
