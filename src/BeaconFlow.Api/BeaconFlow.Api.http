@@ -1,0 +1,6 @@
+@BeaconFlow.Api_HostAddress = http://localhost:5067
+
+GET {{BeaconFlow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
